@@ -1,2 +1,9 @@
 # latihan-css
-klik latihanCSS.zip
+
+* untuk mendownload file latihan 
+ -klik latihanCSS.ZIP
+ -klik download
+ 
+ * untuk mendownload hasil latihan
+ - klik WEB HTML & CSS SEDERHANA.ZIP
+ - klik download
