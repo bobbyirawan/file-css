@@ -5,3 +5,6 @@
 2. untuk mendownload hasil latihan
  => klik WEB HTML & CSS SEDERHANA.ZIP
  => klik download
+3. untuk mendownload materi
+ => klik materi CSS
+ => klik download
